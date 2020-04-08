@@ -3,10 +3,10 @@ img {
     height: auto;
 }
 
-.button, .img{
+#rotate_buttons{
     margin: 2rem;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .flip_horizontal{
